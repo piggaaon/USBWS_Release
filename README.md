@@ -1,4 +1,4 @@
-## USBWS_Cert README
+## USBWS README
 I modified USBWebserver_v8.6 with more control on where folders are located
 for Setting/Server/Logs.
 
